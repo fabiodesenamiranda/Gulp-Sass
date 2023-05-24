@@ -21,7 +21,7 @@ Kit de ferramentas de automação de tarefas baseada em JavaScript
 - Mescla de arquivos de diferentes origens
 
 ## Transpilação para JS
-É o processo de transformação (conversão) de escrita em outras linguagens para o JavaScript. Você poderá escrever em TypeScript ou outras variações do JS que o código será convertido para JavaS.
+É o processo de transformação (conversão) de escrita em outras linguagens para o JavaScript. Você poderá escrever em TypeScript ou Babel que o código.
 
 Todo o processo é executado a partir node.js e gulp-cli (linha de comando)
 
@@ -50,8 +50,7 @@ Todo o processo é executado a partir node.js e gulp-cli (linha de comando)
 - Diminuição do tamanho (bytes) de imagens
 
 ## Rodar o projeto
-- Executar os comandos:
+- Executar o comando:
 ```
 npm install
-gulp serve
 ```
